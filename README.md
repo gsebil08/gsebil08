@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Gauthier. I am a software developer, from France and working at [Decathlon](www.decathlon.fr).
+My name is Gauthier. I am a software developer, from France and working at [Decathlon](http://www.decathlon.fr).
 
 My current project is in Haskell, and I love it!
 

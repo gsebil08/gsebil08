@@ -2,7 +2,7 @@
 
 My name is Gauthier. I am software engineer, from Lille, France and working at ~[Decathlon](https://www.decathlon.fr)~ [Marigold](https://www.marigold.dev).
 
-My current project is in Haskell, and I love it!
+My current project is in ~Haskell~ OCaml, and I love it!
 
 Apart from coding, I practice road running and futsal for now years. But I enjoy watching a lot of sports (Football, American Football, Formula One, Tennis, Basketball, Handball...)
 

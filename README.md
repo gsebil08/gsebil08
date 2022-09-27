@@ -16,7 +16,7 @@ When I am not working or practicing sports, I spend days at poney club 🦄 👨
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Nix-informational?style=flat&logo=Nix&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Doc-Hugo-informational?style=flat&logo=Hugo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Doc-Hugo-informational?style=flat&logo=Hugo&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Doc-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 

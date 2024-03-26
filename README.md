@@ -10,9 +10,9 @@ When I am not working or practicing sports, I spend days at poney club 🦄 👨
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-OCaml-informational?style=flat&logo=OCaml&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-OCaml-informational?style=flat&logo=OCaml&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a) 
 
-![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Nix-informational?style=flat&logo=Nix&logoColor=white&color=2bbc8a)
 
